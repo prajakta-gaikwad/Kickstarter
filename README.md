@@ -5,7 +5,7 @@ Since getting funded on Kickstarter requires meeting or exceeding the project's 
 
 **Find Report of the analysis [here](https://github.com/prajakta-gaikwad/Kickstarter/blob/master/Kickstarter_analysis.docx)**
 
-## Dataset:
+
 * Using below Excel table, the data of four thousand past Kickstarter projects has been modified and analyzed to uncover some of the market trends.
 
 ![Kickstarter Table](Images/FullTable.PNG)
